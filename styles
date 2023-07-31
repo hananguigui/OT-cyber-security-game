@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+#word-container {
+    font-size: 2em;
+    margin-top: 20px;
+}
+
+#letters {
+    margin-top: 20px;
+}
+
+#letters button {
+    font-size: 1.5em;
+    padding: 5px 10px;
+    margin: 5px;
+    cursor: pointer;
+}
